@@ -2,6 +2,10 @@
 
 **
 
+!exercises-setup
+!exercises-setup/*.tf
+!exercises-setup/terraform.tfstate
+
 !exercise1
 !exercise1/*.tf
 
