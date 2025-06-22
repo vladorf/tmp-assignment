@@ -1,0 +1,10 @@
+# Whitelist gitignore
+
+**
+
+!exercise1
+!exercise1/*.tf
+
+!README.md
+
+!.gitignore
