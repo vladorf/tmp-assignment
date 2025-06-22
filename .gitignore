@@ -9,6 +9,11 @@
 !exercise1
 !exercise1/*.tf
 
+!.github/
+!.github/workflows/
+!.github/workflows/*.yaml
+
 !README.md
 
 !.gitignore
+
